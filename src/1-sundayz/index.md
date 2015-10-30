@@ -6,7 +6,7 @@ breadcrumbs:
 id: 1-sundayz
 date: 2015-10-24
 title: Sunday hackz
-author: Henry Bubert
+author: cryptix
 collection: posts
 ---
 

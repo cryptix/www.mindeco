@@ -38,7 +38,7 @@ Metalsmith(__dirname)
     site: {
       title: "cryptix' Blog",
       url: "https://www.mindeco.de/blog/",
-      author: "Henry",
+      author: "cryptix",
     },
   })
   .use(collections({

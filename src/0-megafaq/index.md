@@ -6,13 +6,13 @@ breadcrumbs:
 id: 0-megafaq
 date: 2013-01-22
 title: MegaFAQ
-author: Henry Bubert
+author: cryptix
 collection: posts
 ---
 
 # Questions and Answers about MEGA: What does the new Cloud-Service offer?
 
-> Disclaimer first: I (Henry Bubert) just translated [this](http://www.metronaut.de/2013/01/fragen-und-antworten-zu-mega-was-kann-der-neue-cloud-dienst/) article from german to english, because I personally believe it is relevant to everybody cruising the internet these days. I don’t want to take credit for it in any kind and just hope it is more accessible to the non-german community this way. The original was licensed under CC-BY-NC-SA and so is this.
+> Disclaimer first: I (cryptix) just translated [this](http://www.metronaut.de/2013/01/fragen-und-antworten-zu-mega-was-kann-der-neue-cloud-dienst/) article from german to english, because I personally believe it is relevant to everybody cruising the internet these days. I don’t want to take credit for it in any kind and just hope it is more accessible to the non-german community this way. The original was licensed under CC-BY-NC-SA and so is this.
 
 We took a look at the brand new [MEGA](https://mega.co.nz) Platform and worked together with somebody that has a really good understanding of computer security - and try to find answers to the most pressing questions.
 

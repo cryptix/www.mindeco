@@ -6,7 +6,7 @@ breadcrumbs:
 id: 3-coWat
 date: 2015-10-26
 title: coWaaaat?
-author: Henry Bubert
+author: cryptix
 collection: posts
 ---
 

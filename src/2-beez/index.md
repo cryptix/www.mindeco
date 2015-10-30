@@ -6,7 +6,7 @@ breadcrumbs:
 id: 2-beez
 date: 2015-10-25
 title: Beeez!
-author: Henry Bubert
+author: cryptix
 collection: posts
 ---
 
