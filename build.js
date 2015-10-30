@@ -36,9 +36,9 @@ Metalsmith(__dirname)
   .use(debug())
   .metadata({
     site: {
-      title: "IPFS Blog",
-      url: "http://ipfs.io/blog/",
-      author: "The IPFS Team",
+      title: "cryptix' Blog",
+      url: "https://www.mindeco.de/blog/",
+      author: "Henry",
     },
   })
   .use(collections({
