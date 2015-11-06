@@ -1,8 +1,7 @@
-# IPFS Blog
+# mindeco Blog
 
-This is the source repository for the [IPFS Blog](http://ipfs.io/blog).
+This is the source repository for the [mindeco Blog](http://ipfs.io/ipns/www.mindeco.de/).
 
-![](https://www.evernote.com/l/AMaEbN3YfmVC-JDtlxRdFnMMbfvQjQlmU9MB/image.png)
 
 ## Editing
 
