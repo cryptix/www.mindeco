@@ -69,3 +69,24 @@ https://ipfs.io/ipfs/QmPmYVfozag4XVNPFtLT7vM75KrrsNH8MdjknacuVg91ad
 https://github.com/frohoff/ysoserial
 
 http://gateway.ipfs.io/ipfs/Qmayuqac8sn2xBeyC5D3ob8iampJiPuTQLBiL38zYTWzQQ/JavaUnserializeExploits
+
+
+# CIA hacked
+
+http://www.wired.com/2015/11/cia-email-hackers-return-with-major-law-enforcement-breach/
+
+
+# Tools
+
+https://karpathy.github.io/2014/08/03/quantifying-productivity/
+https://github.com/karpathy/ulogme
+https://github.com/dorneanu/ixkeylog/
+
+
+
+https://github.com/variadico/noti
+
+# TTP
+
+http://keionline.org/node/2363
+
