@@ -12,7 +12,7 @@ publish: versions/latest
 
 versions/latest: $(shell find build/)
 	ipfs swarm peers >/dev/null || (echo "ipfs daemon must be online to publish" && exit 1)
-	ipfs add -r -q "$(builddir)" | tail -n1 >versions/latest
+	ipfs add -s rabin -r -q "$(builddir)" | tail -n1 >versions/latest
 	grep `cat versions/latest` versions/all || cat versions/latest >>versions/all
 
 .PHONY: build publish
